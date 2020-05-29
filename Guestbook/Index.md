@@ -29,3 +29,4 @@ Create a PR to be merged 🥕
 - [Rachel Breeze](https://github.com/RachBreeze/) Heya 👋, great to be here 🥕 thank you Carole, Laura, Emma and Lotte for organising #H5YR
 - [Joe Glombek](https://github.com/glombek) Back for more PRs after my first at the Easter hack!
 - [Bjarke Berg](https://github.com/bergmania) Hallo world 🦄
+- [Anthony Dang](https://github.com/anthonydotnet) Dang!
