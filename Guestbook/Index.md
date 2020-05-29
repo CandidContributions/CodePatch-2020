@@ -28,3 +28,4 @@ Create a PR to be merged 🥕
 - [Matt Brailsford](https://github.com/mattbrailsford/) Hey all you patchlings! 🥕 Keep up the great work Candid Contrib team organising these awesome online events 👏👏👏
 - [Rachel Breeze](https://github.com/RachBreeze/) Heya 👋, great to be here 🥕 thank you Carole, Laura, Emma and Lotte for organising #H5YR
 - [Joe Glombek](https://github.com/glombek) Back for more PRs after my first at the Easter hack!
+- [Bjarke Berg](https://github.com/bergmania) Hallo world 🦄
