@@ -18,3 +18,4 @@ Create a PR to be merged 🥕
 - [Sebastiaan Janssen](https://github.com/nul800sebastiaan) 👋 from Denmark 🌟🥕🥕🥕🥕
 - [Sven Geusens](https://twitter.com/migaroez) Chocolatly greetings from Belgium! 🍫
 - [Harriet Lawrie](https://github.com/GingerSquirrel) Hello! From the Midlands, UK. 🍓
+- [Michael Latouche] (https://github.com/mikecp) A big #H5YR for organizing this event! What a great idea!!
