@@ -16,3 +16,4 @@ Create a PR to be merged 🥕
 - [Paul Seal](https://twitter.com/CodeSharePaul) 🥕 Hello everyone, it's great to be here 🤎
 - [Sebastiaan Janssen](https://github.com/nul800sebastiaan) 👋 from Denmark 🌟🥕🥕🥕🥕
 - [Sven Geusens](https://twitter.com/migaroez) Chocolatly greetings from Belgium! 🍫
+- [Harriet Lawrie](https://github.com/GingerSquirrel) Hello! From the Midlands, UK. 🍓
