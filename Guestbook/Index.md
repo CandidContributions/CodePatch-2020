@@ -27,3 +27,4 @@ Create a PR to be merged 🥕
 - [Janae Cram](https://github.com/naepalm) So lovely to see all your wonderful faces! Thanks so much for putting on this event; I miss you all 🤗🥰
 - [Matt Brailsford](https://github.com/mattbrailsford/) Hey all you patchlings! 🥕 Keep up the great work Candid Contrib team organising these awesome online events 👏👏👏
 - [Rachel Breeze](https://github.com/RachBreeze/) Heya 👋, great to be here 🥕 thank you Carole, Laura, Emma and Lotte for organising #H5YR
+- [Joe Glombek](https://github.com/glombek) Back for more PRs after my first at the Easter hack!
