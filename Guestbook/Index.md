@@ -12,5 +12,6 @@ Create a PR to be merged 🥕
 - [Warren Buckley](https://github.com/warrenbuckley) Message: Oh HAI :wave:
 - [Erica Quessenberry](https://twitter.com/reddesigns) Thanks ladies for putting on this amazing event! #h5yr
 - [Simone Chiaretta](https://github.com/simonech) Hello, thanks to the organizers for such an amazing idea! You can't always get to Codegarden, but you have Codegarden come to you! #H5YR and virtual hugs to everyone!
-[Sebastiaan Janssen](https://github.com/nul800sebastiaan) 👋 from Denmark 🌟🥕🥕🥕🥕
+- [Sebastiaan Janssen](https://github.com/nul800sebastiaan) 👋 from Denmark 🌟🥕🥕🥕🥕
+- [Sven Geusens](https://twitter.com/migaroez) Chocolatly greetings from Belgium! 🍫
 
