@@ -20,4 +20,4 @@ Create a PR to be merged 🥕
 - [Harriet Lawrie](https://github.com/GingerSquirrel) Hello! From the Midlands, UK. 🍓
 - [Michael Latouche] (https://github.com/mikecp) A big #H5YR for organizing this event! What a great idea!!
 - [Lee Kelleher](https://github.com/leekelleher) _How many MVPs?!_ 😎
-- [Liaqat Gul] (https://github.com/liaqatg) Hi and a big thank you to the organiser. Shoutout to the host for the 'first timer' guided session. 👏
+- [LiaqatG] (https://github.com/liaqatg) Hi and a big thank you to the organiser. Shoutout to the host for the 'first timer' guided session. 👏
