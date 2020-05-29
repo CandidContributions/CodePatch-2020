@@ -22,5 +22,6 @@ Create a PR to be merged 🥕
 - [Lee Kelleher](https://github.com/leekelleher) _How many MVPs?!_ 😎
 - [Liaqat Gul] (https://github.com/liaqatg) Hi and a big thank you to the organiser. Shoutout to the host for the 'first timer' guided session. 👏
 - [Jan Skovgaard](https://github.com/BatJan) What a wonderful event - Love how the CodeGarden vibe is still there even though we're all remote. Big #h5yr team CC and thank you for taking time out of your busy schedules to put this together in tight collaboration with Umbraco HQ. It means a lot for all of us I think 🤗🙌😎🥕(Still not sure what the thing is with that carrot though! 😅)
+- [Janae Cram](https://github.com/naepalm) So lovely to see all your wonderful faces! Thanks so much for putting on this event; I miss you all 🤗🥰
 - [Matt Brailsford](https://github.com/mattbrailsford/) Hey all you patchlings! 🥕 Keep up the great work Candid Contrib team organising these awesome online events 👏👏👏
 - [Rachel Breeze](https://github.com/RachBreeze/) Heya 👋, great to be here 🥕 thank you Carole, Laura, Emma and Lotte for organising #H5YR
