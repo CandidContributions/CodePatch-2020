@@ -16,4 +16,6 @@ Create a PR to be merged 🥕
 - [Emma Garland](https://github.com/emmagarland) Lovely to be here, coding in this beautiful virtual patch of garden! 🥕
 - [Carl Sargunar](https://github.com/CarlSargunar) Message: Wotcher
 - [Paul Seal](https://twitter.com/CodeSharePaul) 🥕 Hello everyone, it's great to be here 🤎
+- [Sebastiaan Janssen](https://github.com/nul800sebastiaan) 👋 from Denmark 🌟🥕🥕🥕🥕
 - [Sven Geusens](https://twitter.com/migaroez) Chocolatly greetings from Belgium! 🍫
+- [Harriet Lawrie](https://github.com/GingerSquirrel) Hello! From the Midlands, UK. 🍓
