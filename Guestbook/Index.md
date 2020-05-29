@@ -18,6 +18,6 @@ Create a PR to be merged 🥕
 - [Sebastiaan Janssen](https://github.com/nul800sebastiaan) 👋 from Denmark 🌟🥕🥕🥕🥕
 - [Sven Geusens](https://twitter.com/migaroez) Chocolatly greetings from Belgium! 🍫
 - [Harriet Lawrie](https://github.com/GingerSquirrel) Hello! From the Midlands, UK. 🍓
-- [Michael Latouche] (https://github.com/mikecp) A big #H5YR for organizing this event! What a great idea!!
+- [Michael Latouche](https://github.com/mikecp) A big #H5YR for organizing this event! What a great idea!!
 - [Lee Kelleher](https://github.com/leekelleher) _How many MVPs?!_ 😎
 - [Jan Skovgaard](https://github.com/BatJan) What a wonderful event - Love how the CodeGarden vibe is still there even though we're all remote. Big #h5yr team CC and thank you for taking time out of your busy schedules to put this together in tight collaboration with Umbraco HQ. It means a lot for all of us I think 🤗🙌😎🥕(Still not sure what the thing is with that carrot though! 😅)
