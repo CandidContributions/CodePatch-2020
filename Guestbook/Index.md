@@ -33,4 +33,4 @@ Create a PR to be merged 🥕
 - [Lars-Erik Aabech](https://github.com/lars-erik) Loving me some patchling carrot! 🥕❤
 - [Nik Rimington](https://github.com/NikRimington) Attending via PR's ;-)! 🥕
 - [Niels Hartvig](https://github.com/hartvig) Amazing initiative and can't believe you manage to make such a FRIENDLY vibe in a virtual event ! 🥰
-- [Jeavon Leopold](https://github.com/Jeavon/) Thank you for all the carrots, wonderful to see and hear from everyone 🥕🐰
+- [Jeavon & Gwendolyn Leopold](https://github.com/Jeavon/) Thank you for all the carrots, wonderful to see and hear from everyone 🥕🐰
