@@ -37,3 +37,4 @@ Create a PR to be merged 🥕
 - [Adam Werner](https://github.com/adam-werner) Another amazing event organized by Candid Contributions! 🥕 #H5YR 
 - [Marc Duiker](https://twitter.com/marcduiker) Thank you that I could be part of this lovely conference! Let me know what your creative coding project will be! ✏🎵🕹
 - [Mike Masey](https://twitter.com/MikeMasey) Thank you amazing Candid Contribution Crew, you lot are AMAZING!! Thanks for another brilliant event! 🥕❤
+- [Andreea Covaciu] Did anyone say "carrot"? Thank you for having me! Thank you for being so friendly and supportive! #VirtualHugs 🥕
