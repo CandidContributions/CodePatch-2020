@@ -31,3 +31,4 @@ Create a PR to be merged 🥕
 - [Bjarke Berg](https://github.com/bergmania) Hallo world 🦄
 - [Anthony Dang](https://github.com/anthonydotnet) Dang!
 - [Lars-Erik Aabech](https://github.com/lars-erik) Loving me some patchling carrot! 🥕❤
+- [Nik Rimington](https://github.com/NikRimington) Attending via PR's ;-)! 🥕
