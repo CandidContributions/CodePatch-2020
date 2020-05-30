@@ -8,3 +8,4 @@ Our live podcast recording will be a "choose your own adventure"! PR your topic 
 * Tips and Tricks for time management in the current lockdown climate
 * Umbraco blog posts you wish someone would write!
 * Developer/Inventor you'd love to meet (alive/dead) and what would be the first thing you'd ask them about?
+* Hartvig - What's the nicest thing you've done to someone who's not family or a close friend?
