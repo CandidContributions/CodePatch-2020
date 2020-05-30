@@ -30,4 +30,4 @@ Create a PR to be merged 🥕
 - [Joe Glombek](https://github.com/glombek) Back for more PRs after my first at the Easter hack!
 - [Bjarke Berg](https://github.com/bergmania) Hallo world 🦄
 - [Anthony Dang](https://github.com/anthonydotnet) Dang!
-- [Lars-Erik Aabech](https://github.com/lars-erik) Lars-Erik ❤
+- [Lars-Erik Aabech](https://github.com/lars-erik) Loving me some patchling carrot! 🥕❤
