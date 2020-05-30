@@ -35,3 +35,4 @@ Create a PR to be merged 🥕
 - [Niels Hartvig](https://github.com/hartvig) Amazing initiative and can't believe you manage to make such a FRIENDLY vibe in a virtual event ! 🥰
 - [Jeavon & Gwendolyn Leopold](https://github.com/Jeavon/) Thank you for all the carrots, wonderful to see and hear from everyone 🥕🐰
 - [Adam Werner](https://github.com/adam-werner) Another amazing event organized by Candid Contributions! 🥕 #H5YR 
+- [Marc Duiker](https://twitter.com/marcduiker) Thank you that I could be part of this lovely conference! Let me know what your creative coding project will be! ✏🎵🕹
