@@ -34,3 +34,4 @@ Create a PR to be merged 🥕
 - [Nik Rimington](https://github.com/NikRimington) Attending via PR's ;-)! 🥕
 - [Niels Hartvig](https://github.com/hartvig) Amazing initiative and can't believe you manage to make such a FRIENDLY vibe in a virtual event ! 🥰
 - [Jeavon & Gwendolyn Leopold](https://github.com/Jeavon/) Thank you for all the carrots, wonderful to see and hear from everyone 🥕🐰
+- [Adam Werner](https://github.com/adam-werner) Another amazing event organized by Candid Contributions! 🥕 #H5YR 
